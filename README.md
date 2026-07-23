@@ -39,9 +39,7 @@ overlap, an early signal, not a robust conclusion.
 
 No statistical significance testing was performed at this stage, these are exploratory
 patterns and hypotheses, not confirmed findings. That rigour is exactly what the follow-up
-Environmental Factors project adds.
-
-\---
+[Urban Squirrel Environment](#) project adds.
 
 ## Access the Full Pipeline
 
