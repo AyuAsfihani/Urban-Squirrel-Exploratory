@@ -11,7 +11,7 @@ analysis of the shared team dataset.
 
 ## Summary
 
-!\[Urban Squirrel Behaviour — Exploratory Analysis Pipeline](squirrel\_exploratory\_poster.png)
+[Urban Squirrel Behaviour — Exploratory Analysis Pipeline](squirrel\_exploratory\_poster.png)
 
 The poster above covers the full scope: problem/goal, data resource, tools, the 4-stage
 methodology (data cleaning, fur colour \& behaviour charts, temporal \& text analysis, first-pass
