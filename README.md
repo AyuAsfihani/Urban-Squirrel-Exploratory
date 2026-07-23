@@ -7,7 +7,7 @@ was completed as part of a university team; the summary below focuses on the aut
 analysis of the shared team dataset.
 
 > 🔒 \*\*This is a summary-only repository.\*\* No source code, no data, and no scripts are published
-> here, see \ [Access the full pipeline](#access-the-full-pipeline) at the bottom.
+> here, see [Access the full pipeline](#access-the-full-pipeline) at the bottom.
 
 ## Summary
 
