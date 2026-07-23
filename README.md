@@ -7,7 +7,7 @@ was completed as part of a university team; the summary below focuses on the aut
 analysis of the shared team dataset.
 
 > 🔒 \*\*This is a summary-only repository.\*\* No source code, no data, and no scripts are published
-> here, see \[Access the full pipeline](#access-the-full-pipeline) at the bottom.
+> here, see \ [Access the full pipeline](#access-the-full-pipeline) at the bottom.
 
 ## Summary
 
@@ -23,7 +23,7 @@ Before any formal hypothesis testing is worth attempting, an analyst needs to un
 actually in the data including distributions, obvious patterns, and whether naive clustering finds
 anything at all. This project is that exploratory phase, run on the 2018 Central Park Squirrel
 Census (3,023 sightings), and it directly motivated the rigorous, leakage-safe pipeline in the
-companion [Environmental Factors project](#) in this portfolio, which formally tested and
+companion [Urban Squirrel Environment](#) project in this portfolio, which formally tested and
 confirmed the null result these exploratory patterns had only hinted at.
 
 ## Headline findings
